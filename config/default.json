@@ -1,4 +1,4 @@
 {
     "mongoURI":
-      "mongodb+srv://test:test@cise-ass1a-w3.qvxvcwx.mongodb.net/?retryWrites=true&w=majority"
-  }
+        "mongodb+srv://test:test@cise-ass1a-w3.qvxvcwx.mongodb.net/?retryWrites=true&w=majority"
+}
