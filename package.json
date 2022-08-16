@@ -24,6 +24,7 @@
     "config": "^3.3.7",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "heroku": "^7.62.0",
     "mongoose": "^5.5.15",
     "validation": "0.0.1"
   },
